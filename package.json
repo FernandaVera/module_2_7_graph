@@ -1,0 +1,23 @@
+{
+  "name": "module_2_7_graph",
+  "version": "1.0.0",
+  "description": "Practica modulo 2 grafos",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FernandaVera/module_2_7_graph.git"
+  },
+  "keywords": [],
+  "author": "Fernanda Vera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FernandaVera/module_2_7_graph/issues"
+  },
+  "homepage": "https://github.com/FernandaVera/module_2_7_graph#readme",
+  "dependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
